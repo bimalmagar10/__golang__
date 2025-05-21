@@ -1,0 +1,23 @@
+{
+ "expenses": [
+  {
+   "id": 2,
+   "amount": 2000,
+   "description": "Purchase Macbook",
+   "date": "2025-05-20T22:12:02.78051-05:00"
+  },
+  {
+   "id": 3,
+   "amount": 68,
+   "description": "Electricity Bills",
+   "date": "2025-05-20T22:26:21.313938-05:00"
+  },
+  {
+   "id": 4,
+   "amount": 29.99,
+   "description": "Spotify Subscription",
+   "date": "2025-05-21T00:16:20.237095-05:00"
+  }
+ ],
+ "next_id": 5
+}
